@@ -66,40 +66,40 @@ export default function Footer() {
             </p>
             <ul className='flex flex-col gap-1'>
               <li>
-                <span className='p-sm font-bold tracking-[0.1em] mr-2'>
+                <span className='p-md font-bold tracking-[0.1em] mr-2'>
                   TEL
                 </span>
                 <Link
                   href='tel:+886075588057'
-                  className='p-sm font-medium tracking-wider'
+                  className='p-md font-medium tracking-wider'
                 >
                   (07)5588 - 057
                 </Link>
               </li>
               <li>
-                <span className='p-sm font-bold tracking-[0.1em] mr-2'>
+                <span className='p-md font-bold tracking-[0.1em] mr-2'>
                   E-MAIL
                 </span>
                 <Link
                   href='mailto:service@goojob.com.tw'
-                  className='p-sm font-medium tracking-wider'
+                  className='p-md font-medium tracking-wider'
                 >
                   service@goojob.com.tw
                 </Link>
               </li>
               <li>
-                <span className='p-sm font-bold tracking-[0.1em] mr-2'>
+                <span className='p-md font-bold tracking-[0.1em] mr-2'>
                   TAX ID
                 </span>
-                <span className='p-sm font-medium tracking-wider'>
+                <span className='p-md font-medium tracking-wider'>
                   90577449
                 </span>
               </li>
               <li>
-                <span className='p-sm font-bold tracking-[0.1em] mr-2'>
+                <span className='p-md font-bold tracking-[0.1em] mr-2'>
                   ADDRESS
                 </span>
-                <span className='p-sm font-medium tracking-wider'>
+                <span className='p-md font-medium tracking-wider'>
                   806高雄市前鎮區民權二路6號14樓之2
                 </span>
               </li>
