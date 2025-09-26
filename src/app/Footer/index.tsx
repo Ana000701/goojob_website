@@ -66,40 +66,40 @@ export default function Footer() {
             </p>
             <ul className='flex flex-col gap-1'>
               <li>
-                <span className='p-md font-bold tracking-[0.1em] mr-2'>
+                <span className='p-sm font-bold tracking-[0.1em] mr-2'>
                   TEL
                 </span>
                 <Link
                   href='tel:+886075588057'
-                  className='p-md font-medium tracking-wider'
+                  className='p-sm font-medium tracking-wider'
                 >
                   (07)5588 - 057
                 </Link>
               </li>
               <li>
-                <span className='p-md font-bold tracking-[0.1em] mr-2'>
+                <span className='p-sm font-bold tracking-[0.1em] mr-2'>
                   E-MAIL
                 </span>
                 <Link
                   href='mailto:service@goojob.com.tw'
-                  className='p-md font-medium tracking-wider'
+                  className='p-sm font-medium tracking-wider'
                 >
                   service@goojob.com.tw
                 </Link>
               </li>
               <li>
-                <span className='p-md font-bold tracking-[0.1em] mr-2'>
+                <span className='p-sm font-bold tracking-[0.1em] mr-2'>
                   TAX ID
                 </span>
-                <span className='p-md font-medium tracking-wider'>
+                <span className='p-sm font-medium tracking-wider'>
                   90577449
                 </span>
               </li>
               <li>
-                <span className='p-md font-bold tracking-[0.1em] mr-2'>
+                <span className='p-sm font-bold tracking-[0.1em] mr-2'>
                   ADDRESS
                 </span>
-                <span className='p-md font-medium tracking-wider'>
+                <span className='p-sm font-medium tracking-wider'>
                   806高雄市前鎮區民權二路6號14樓之2
                 </span>
               </li>
@@ -108,7 +108,7 @@ export default function Footer() {
         </div>
         {/* Navbar */}
         <div className='hidden md:flex md:gap-5 lg:gap-10 xl:gap-20 2xl:gap-28'>
-          <ul className='text-sm lg:p-base 2xl:p-md tracking-wider flex flex-col gap-3.5'>
+          <ul className='text-sm lg:p-base 2xl:p-sm tracking-wider flex flex-col gap-3.5'>
             <li>
               <p className='font-bold'>產品中心</p>
             </li>
@@ -125,7 +125,7 @@ export default function Footer() {
               <Link href='#'>30 天免費體驗</Link>
             </li>
           </ul>
-          <ul className='text-sm lg:p-base 2xl:p-md tracking-wider flex flex-col gap-3.5'>
+          <ul className='text-sm lg:p-base 2xl:p-sm tracking-wider flex flex-col gap-3.5'>
             <li>
               <p className='font-bold'>產品學習</p>
             </li>
@@ -142,7 +142,7 @@ export default function Footer() {
               <Link href='#'>FAQ</Link>
             </li>
           </ul>
-          <ul className='text-sm lg:p-base 2xl:p-md tracking-wider flex flex-col gap-3.5'>
+          <ul className='text-sm lg:p-base 2xl:p-sm tracking-wider flex flex-col gap-3.5'>
             <li>
               <p className='font-bold'>媒體資源</p>
             </li>
@@ -156,7 +156,7 @@ export default function Footer() {
               <Link href='#'>LINE@</Link>
             </li>
           </ul>
-          <ul className='text-sm lg:p-base 2xl:p-md tracking-wider flex flex-col gap-3.5'>
+          <ul className='text-sm lg:p-base 2xl:p-sm tracking-wider flex flex-col gap-3.5'>
             <li>
               <p className='font-bold'>關於我們</p>
             </li>
